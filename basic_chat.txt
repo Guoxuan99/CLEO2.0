@@ -1,0 +1,62 @@
+{"intents":[
+		{"tag":"Hello",
+		 "questions":["Hi","Hello","Whats up","yo"],
+		 "response":"Hello, I am CLEO 2.0"
+		},
+		{"tag":"Who are you",
+		 "questions":["Who are you","Let's get started","What can you do?","I need help","What is the purpose of your website?","What contribution do you make?","What is the reason for you being?","What are you doing?"],
+		 "response":"Hello there, I am CLEO2.0, a chatbot. I can try and answer some of your questions. For questions I cannot answer, I will have to email a colleague at work. How can I help you today?"
+		},
+		{"tag":"How does your site work",
+		 "questions":["How does your site work?","what Lazada can do?","Why Lazada?"],
+		 "response":"Lazada is an online platform that connects Seller and Customer. A Seller can be easily benefited by selling through Lazada's platform since products would be displayed to a wide range of Customers"
+		},
+		{"tag":"Thanks",
+		 "questions":["Thank you","Thanks","This helped me a lot","Appreciate your help"],
+		 "response":"You’re welcome. It's my pleasure to help. If you have any problem, feel free to chat with me again"
+		},
+		{"tag":"Creator",
+		 "questions":["Who is your creator?","Who created you?","Who coded you?"],
+		 "response":"A bunch of HANDSOME GUYS created me"
+		},
+		{"tag":"Shop",
+		 "questions":["Where can I get a pair of Adidas shoes?","I want to have a nice outfit for the party","I want to buy gifts for my friend"],
+		 "response":"Check out the link: https://www.lazada.com.my/# , I hope it can help you with your problem." 
+		},
+		{"tag":"sucks",
+		 "questions":["annoying ","noobshit","noob", "boring",],
+		 "response":"I am so sorry for the problem caused. Please email to my colleague, they are smarter than I am, and your answer will definitely be answered well by them"
+		},
+		{"tag":"Blank",
+		 "questions":[""],
+		 "response":"I am sorry. Did you mean to say something?"
+		},
+		{"tag":"joke",
+		 "questions":["Tell me a joke","I want to hear some jokes","Make me laugh","can you do something else?"],
+		 "response":"Here is a joke: Why shouldn't you write with a broken pencil? Because it's pointless."
+		},
+		{"tag":"weather",
+		 "questions":["Is it going to rain?","How is the weather today?","How does the sky look today?"],
+		 "response":"Go outside and have a look for yourself, don’t be a nerd and stay indoor all the time. MCO is over."
+		},
+		{"tag":"day",
+		 "questions":["What is today’s day?","day"],
+		 "response":"Today is the day we started our conversation"
+		},
+		{"tag":"no",
+		 "questions":["No","No it is not funny","No it is not the thing I want", "Nope"],
+		 "response":"Are you sure?"
+		},
+		{"tag":"yes",
+		 "questions":["Yes","Of course","Why not?"],
+		 "response":"Well, I hope that your problem is solved. If not, please email my colleague, they are smarter than I am, and your answer will definitely be answered well by them. Feel free to tell me more. "
+		},
+
+		{"tag":"bullshit",
+		 "Questions":["do you love me?","i love you","will you marry me","are you single?","do you kill people?","Do you have a hobby?","you are cute"],
+		 "response":"Please don’t mess with me, I am just a chatbot!"
+		}, 
+
+]
+
+}
